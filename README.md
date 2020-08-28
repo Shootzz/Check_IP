@@ -1,5 +1,5 @@
 ## Check_IP (ip.sh)
-The script that checks whether my current IP is in my "good IP" list.
+The shell script that checks whether my current IP is in my "good IP" list.
 
 ## Reason
 
