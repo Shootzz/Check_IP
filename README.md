@@ -1,4 +1,4 @@
-## Check_IP
+## Check_IP (ip.sh)
 The script that checks whether my current IP is in my OK IP list.
 
 ## Reason
